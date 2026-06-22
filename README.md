@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="assets/logo.png">
-</p>
-
-
 # 🔐 Steganography Tool
 
 Hide messages in plain sight.
